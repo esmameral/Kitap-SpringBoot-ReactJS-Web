@@ -1,0 +1,32 @@
+{
+    "productList": [
+        {
+            "id":"1",
+            "img": "tablet",
+            "name": "32GB Tablet Gümüş",
+            "price": "702 TL",
+            "description": "Depolama birimi:RAM 2GB, Dahili Hafıza: 32 GB, Ekran boyutu: 8 '',Dokunmatik ekran,  Hafıza: 2GB ,Batarya Pil performansı: 5100 mAh, Ekran boyutu: 8 '',Ekran boyutu: 8 '', Ekran çözünürlüğü 1280 x 800 Piksel, Platform: Android"
+        },
+        {
+            "id":"2",
+            "img": "shoe",
+            "name": "Erkek Ayakkabı",
+            "price": "150 TL",
+            "description": "Soğuk ve suya karşı dayanıklı, Kaymaz taban, Bağcıklı, Anatomik Kalıp, Dış Materyal : Su Geçirmez 1.Sınıf İthal Microfiber Malzeme İç Materyal : Soğuk Geçirmez 1.Kalite İthal Kürk"
+        },
+        {
+            "id":"3",
+            "img": "watch",
+            "name": "Kadın Saat",
+            "price": "200 TL",
+            "description": "Cinsiyet: Kadın, Çalışma Tipi: Pilli (Quartz), Kordon Rengi: Gri, Kordon: Çelik, Su Geçirmezlik: 30 m"
+        },
+        {
+            "id":"4",
+            "img": "chair",
+            "name": "Masa Sandalyesi",
+            "price": "400 TL",
+            "description": "Yumuşak dokulu döşeme. Kolay silinebilir yüzey. Sandalye Yükseklik 92cm / Genişlik 40cm· Ürün demonte olarak gönderilmektedir, kurulum alıcıya ait ve basittir."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "Demo Project",
+  "main": "index.js",
+  "scripts": {
+    "say-hello": "echo 'Merhaba NPM Dünyası'",
+    "start": "node index.js"
+  },
+  "author": "Esma Meral",
+  "license": "ISC",
+  "dependencies": {}
+}
